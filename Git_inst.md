@@ -212,3 +212,7 @@
 - Для того чтобы создать ссылку, необходимо использовать следующую комбинацию символов:
 
 [Ссылка на сайт по работе с Markdown](https://ru.markdown.net.br/rasshirennyy-sintaksis/)
+
+- Можно добавить ссылку, используя выделение знаками <>:
+
+<https://ru.markdown.net.br/rasshirennyy-sintaksis>
